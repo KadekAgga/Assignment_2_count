@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment2 Counter</string>
+    <string name="txtNilai">nilai</string>
+    <string name="btnTambah">tambah</string>
+    <string name="textView">komen</string>
+    <string name="textInput">Masukan Kata</string>
+</resources>
